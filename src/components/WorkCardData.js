@@ -22,7 +22,7 @@ const ProjectCardData = [
     imgsrc: project15,
     title: "Portfolio website",
     text: "It is my own portfolio website. Now onwards i'll update every work in my portfolio website. This site will be the showcase of my creativity and the hardwork.",
-    view: "https://abhijith-suresh-portfolio-website.vercel.app/",
+    view: "https://abhijith-portfolio.vercel.app/",
   },
 ];
 export default ProjectCardData;
