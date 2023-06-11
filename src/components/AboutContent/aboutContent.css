@@ -60,3 +60,10 @@
     }
 }
 
+@media screen and (max-width:480px){
+    .aboutright{
+        min-width: 350px;
+        flex: 2;    
+    }
+}
+

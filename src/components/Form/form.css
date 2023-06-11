@@ -40,3 +40,15 @@ align-items: center;
       
     }
 }
+
+@media screen and (max-width: 480px) {
+    .formform{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-width: 350px;
+        margin: 20px;
+        padding: 4rem 1rem;
+      
+    }
+}
