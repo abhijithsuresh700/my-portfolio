@@ -5,7 +5,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
 }
 
 .aboutLeft{
@@ -53,5 +53,10 @@
     z-index: 5;
 }
 
-
+@media screen and (max-width:640px){
+    .aboutright{
+        min-width: 400px;
+        flex: 2;    
+    }
+}
 

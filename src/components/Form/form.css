@@ -28,3 +28,15 @@ align-items: center;
     color:#f4f4f4;
 
 }
+
+@media screen and (max-width: 768px) {
+    .formform{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-width: 400px;
+        margin: 20px;
+        padding: 4rem 1rem;
+      
+    }
+}
